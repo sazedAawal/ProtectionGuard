@@ -5,12 +5,6 @@ An ongoing research project tackling online sextortion by detecting real-time nu
 
 > **Real-time, on-device explicit content detection for video calls — no data ever leaves your machine.**
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)]()
-[![Status](https://img.shields.io/badge/Status-Active%20Development-orange)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)]()
-
 ---
 
 ## The Problem
